@@ -1,0 +1,117 @@
+body{
+    position: absolute;
+    width: 100%;
+    color: #665544;
+}
+.kolom1{
+    float: left;
+    padding-left: 3%;
+    width: 90%;
+    margin: 1px;
+    background-color: #e8dff5;
+    text-align: left;
+    font-size: 150%;
+    height: 80px;
+}
+.kolom2{
+    float: left;
+    padding-left: -5px;
+    width: 93%;
+    margin: 1px;
+    background-color: #fce1e4;
+    text-align: auto;
+}
+.kolom3{
+    float: left;
+    width: 50%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 1px;
+    background-color: #fcf4dd;
+    text-align: justify;
+}
+.kolom4{
+    float: left;
+    width: 42.5%;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #ddedea;
+    text-align: justify;
+}
+.kolom5{
+    float: left;
+    width: 50%;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 1px;
+    background-color: #daeaf6;
+    text-align: left;
+}
+.kolom6{
+    float: left;
+    width: 42.5%;
+    height: 250px;
+    margin-top: -140px;
+    margin-left: 10px;
+    background-color: #e8d1c5;
+    text-align: center;
+}
+.kolom7{
+    float: left;
+    width: 42.5%;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #ddedea;
+    text-align: center;
+}
+.kolom8{
+    float: left;
+    width: 21.25%;
+    height: 185px;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: #e8d1c5;
+    text-align: center;
+}
+.kolom9{
+    float: left;
+    width: 20.5%;
+    height: 185px;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: #e8d1c5;
+    text-align: center;
+}
+.footer{
+    float: left;
+    padding-left: 3%;
+    width: 90%;
+    margin: 5px;
+    background-color: #e8dff5;
+    text-align: right;
+    font-size: 100%;
+}
+li{
+    display: inline;
+    padding-left: 20px;
+    margin: 5px;
+    padding: 1px 10px;
+}
+.a{
+    float: left;
+    padding-left: 5%;
+}
+.b{
+    float: left;
+    padding-left: 1%;
+}
+.c{
+    float: left;
+    padding-left: 2%;
+}
+.d{
+    float: left;
+    padding-left: 1%;
+}
